@@ -1,3 +1,3 @@
 # Node Sequelize
 
-This is a just study project  of Sequelize
+This is just a study project  of Sequelize
